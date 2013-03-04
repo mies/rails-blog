@@ -1,5 +1,5 @@
 {
     "services": {
-        "mysql": true
+        "postgresql": true
         }
 }
